@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "l">
+            </PersistentString>
+            <PersistentString
+               value = "i/8/1347">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Library ImageToPixels:byImage:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "**pixels">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Library SetImagePixels:DataPixels:TextPixels:ImageSize:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(*pImagePixels)[i+2]">
+            </PersistentString>
+            <PersistentString
+               value = "dataPixels[i+1]">
+            </PersistentString>
+            <PersistentString
+               value = "dataPixels[i+4]">
+            </PersistentString>
+            <PersistentString
+               value = "dataPixels[i+3]">
+            </PersistentString>
+            <PersistentString
+               value = "dataPixels[i+0]">
+            </PersistentString>
+            <PersistentString
+               value = "(*pImagePixels)[i+0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Library SetDataPixels:ImageSize:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "y*4">
+            </PersistentString>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+            <PersistentString
+               value = "(int)imageSize.height*(int)imageSize.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Library SaveDataAsImageByArray:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "ImagePixels[]">
+            </PersistentString>
+            <PersistentString
+               value = "116*29">
+            </PersistentString>
+            <PersistentString
+               value = "(28+28*29)*4">
+            </PersistentString>
+            <PersistentString
+               value = "ImagePixels[3364]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Library SetImagePixels:DataPixels:TextPixels:ImageSize:]:Library.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[Library FilterOutTextDataFromPixels:PixelsLength:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(*pixels)[changedLength]">
+            </PersistentString>
+            <PersistentString
+               value = "(*pixels)[changedLength-1]">
+            </PersistentString>
+            <PersistentString
+               value = "(*pixels)[changedLength-2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Library SaveDataAsImageByArray:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "[array objectAtIndex:1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[Library FilterOutTextDataFromPixels:PixelsLength:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Library SetDataPixels:ImageSize:]:Library.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(*pDataPixels)[i]">
+            </PersistentString>
+            <PersistentString
+               value = "(*pDataPixels)[i+l]">
+            </PersistentString>
+            <PersistentString
+               value = "l">
+            </PersistentString>
+            <PersistentString
+               value = "(*pDataPixels)[i+1]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
