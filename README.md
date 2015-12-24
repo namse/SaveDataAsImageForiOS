@@ -9,7 +9,7 @@
 
 ### 썸네일을 이용한 데이터 구분 가능
 
-![alt text](http://echo.woweb.net/d2image "image example")
+![alt tag](https://raw.github.com/skatpgusskat/SaveDataAsImageForiOS/master/example.png)
 
 마치 아이콘처럼,
 
